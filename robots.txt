@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://muthukrishnan.vercel.app/sitemap.xml
